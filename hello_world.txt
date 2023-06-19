@@ -1,0 +1,2 @@
+My uh, second time trying out how to use CLI with git.
+Hello Odin, my dear god.
